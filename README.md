@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+![businessCard png](https://user-images.githubusercontent.com/54481207/86438829-ec59c580-bd24-11ea-86ed-d5aa7ac9b4a0.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
